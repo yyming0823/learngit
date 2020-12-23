@@ -1,2 +1,2 @@
-t is a version control sysytem.
+git is a distributed version control sysytem.
 git is fee software.
